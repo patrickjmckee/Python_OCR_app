@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*.bat
+*.env
+*.log
+*.pyc
+*.pyd
+*.python
+*.zip
+.DS_Store
+.vscode/
+__pycache__/
+instance/
+.qodo/
+uploads/
+venv/
