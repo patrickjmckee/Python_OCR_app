@@ -1,6 +1,8 @@
+# ./README.md
+
 ## Author
 Patrick McKee  
-[LinkedIn](https://www.linkedin.com/in/patrickjmckee/)  
+[LinkedIn](https://www.linkedin.com/in/p-j-mckee/)  
 [GitHub](https://github.com/patrickjmckee)
 
 ## Version
@@ -33,13 +35,13 @@ cd Python_OCR_app
 ### Create and activate a virtual environment
 **Windows (Git Bash / WSL):**
 ```bash
-python -m venv venv
-source venv/Scripts/activate
+python -m venv .venv
+source .venv/Scripts/activate
 ```
 **Windows (CMD):**
 ```cmd
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 ### Install dependencies
